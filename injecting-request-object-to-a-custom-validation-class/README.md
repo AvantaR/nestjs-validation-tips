@@ -1,0 +1,1 @@
+This is  an example repository for article [Injecting a request object to a custom validation class in NestJS](https://dev.to/avantar/injecting-request-object-to-a-custom-validation-class-in-nestjs-5dal).
